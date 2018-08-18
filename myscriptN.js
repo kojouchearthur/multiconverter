@@ -113,6 +113,3 @@ function crntTm(){
 	document.getElementById("crntm").innerHTML = "<i class='fa fa-clock-o'> </i>" + "  " + now.toLocaleTimeString();
 }
 
-//56.45NGN = 1yuan
-//27.15NGN = 1rand
-//3.60NGN =1ksh
